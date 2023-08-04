@@ -4,7 +4,7 @@
 
 Software Engineer | Cloud Engineer | AWS
 
-👨‍💻 I'm a Software Engineer with a strong background in Cloud Engineering. With hands-on experience in major cloud platforms, mainly AWS, but also skilled to work with GCP and Azure.
+👨‍💻 I'm a Software Engineer with solid background in Cloud Engineering. With hands-on experience in major cloud platforms, mainly AWS, but also skilled to work with GCP and Azure.
 
 From designing scalable architectures to optimizing performance, I bring a wealth of hands-on experience. With a keen eye for innovation and a knack for problem-solving, I thrive in creating robust solutions that leverage the power of the cloud.
 
