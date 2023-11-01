@@ -2,7 +2,7 @@
 
 ## About me
 
-Software Engineer | Cloud Engineer | AWS
+Software Engineer | Cloud Engineer | AWS Developer Certified
 
 👨‍💻 I'm a Software Engineer with solid background in Cloud Engineering. With hands-on experience in major cloud platforms, mainly AWS, but also skilled to work with GCP and Azure.
 
@@ -11,6 +11,8 @@ From designing scalable architectures to optimizing performance, I bring a wealt
 ### Tech
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="56" height="56"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="56" height="56"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="56" height="56"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="56" height="56"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="56" height="56"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="56" height="56"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="56" height="56"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original-wordmark.svg" width="56" height="56"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" width="56" height="56"/>
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="e13519c5-e388-41b3-9d64-a5a2ae93f659" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 ### Cloud and Containers
 
